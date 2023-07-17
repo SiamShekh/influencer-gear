@@ -139,6 +139,18 @@
     height: 31.065px;
     flex-shrink: 0;
 }
+.body{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+footer{
+    background-color: #000;
+}
 .sponser-div{
     display: flex;   
     justify-content: space-around;
@@ -266,7 +278,6 @@
 }
 
 .footer{
-    background-color: #000;
     height: 240px;
     padding: 0;
     margin: 0;
